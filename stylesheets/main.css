@@ -18,7 +18,7 @@ div {
 
 .container {
         width: 800px;
-        margin:0 0 0 190px;  
+        margin:0 0 0 180px;  
         background-color: white;
         padding-top: 10px;
         padding-bottom: 20px;      
@@ -30,7 +30,7 @@ div {
         background-color: whitesmoke;
         width: 800px;
         margin: 5px 20px 20px 20px;
-        padding: 20px 20px 0 20px
+        padding: 20px 40px 20px 40px
 }
 
 
@@ -52,7 +52,7 @@ h1 {
         font-family: Georgia, serif;
         text-align: center;
         font-size: 25px;
-        padding: 25px 20px 23px 155px;
+        padding: 25px 20px 23px 145px;
         letter-spacing: 1px;
 }
 
@@ -70,13 +70,13 @@ h2 {
 	font-size: 16px;
 	color: #002868;
 	letter-spacing: 1px;
-	padding: 0 0 10px 156px;
+        text-align: center;
 	border-radius: 5px;
         margin: 0 200px 0 200px;
 }
 
 .nav {
-        margin: 0 20px 0 20px;
+        margin: 0 0 0 0;
 	padding: 0;
 	list-style: none;
         height: 36px;
@@ -88,7 +88,7 @@ h2 {
 .nav a {
     color: #002868;
     font-size: larger;
-    margin: 0 20px 0 20px;
+    margin: 0 20px 0 40px;
     text-align: center
   
 }
