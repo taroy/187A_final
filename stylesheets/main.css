@@ -88,8 +88,12 @@ h2 {
     font-size: larger;
     margin: 0 20px 20px 20px;
     text-align: center
+  
+}
+table {
+   width: 100%;
+}
 
-
- 
-    
+table td.lable {
+   width: 150px;
 }
