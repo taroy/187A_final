@@ -18,9 +18,9 @@ div {
 
 .container {
         width: 800px;
-        margin:0 0 0 180px;  
+        margin:0 0 0 190px;  
         background-color: white;
-        padding-top: 20px;
+        padding-top: 10px;
         padding-bottom: 20px;      
         
 }
@@ -29,8 +29,8 @@ div {
 .container_front {
         background-color: whitesmoke;
         width: 800px;
-        margin: 40px 20px 20px 20px;
-        padding: 40px 20px 0 20px
+        margin: 5px 20px 20px 20px;
+        padding: 20px 20px 0 20px
 }
 
 
@@ -72,21 +72,23 @@ h2 {
 	letter-spacing: 1px;
 	padding: 0 0 10px 156px;
 	border-radius: 5px;
-        margin: 0 200px 0 200px
+        margin: 0 200px 0 200px;
 }
 
 .nav {
-        margin: 0 20px 20px 20px;
+        margin: 0 20px 0 20px;
 	padding: 0;
 	list-style: none;
         height: 36px;
-        font-size: small
+        font-size: small;
+            text-align: center
+
 }
 
 .nav a {
     color: #002868;
     font-size: larger;
-    margin: 0 20px 20px 20px;
+    margin: 0 20px 0 20px;
     text-align: center
   
 }
